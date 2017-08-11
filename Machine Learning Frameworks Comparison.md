@@ -24,6 +24,9 @@ Theano originated in 2007 at the University of Montreal at the widely renowned I
 
 [![Torch](https://blog.paperspace.com/content/images/2016/12/torch-1.png)](http://torch.ch/)
 
+## Refrence
+https://blog.paperspace.com/which-ml-framework-should-i-use/
+
 Of all the common frameworks, Torch is probably the easiest to get up and running, especially if you are using Ubuntu. Originally developed at NYU in 2002, Torch is widely used by large tech companies like Facebook and Twitter and is also backed by NVIDIA. Torch is written in the scripting language called Lua which is easy to read but not nearly as common as languages like Python. Helpful error messages, a plethora of sample code/tutorials and the simplicity of Lua make Torch a great place to start.
 
  * GPU acceleration: Yes
@@ -69,3 +72,6 @@ and others.
 
 A comparison of GitHub activity: 
 ![comparison](https://blog.paperspace.com/content/images/2016/12/1-VRihskMG4cTA8g60EuSWuw.png)
+
+## Refrence
+ * https://blog.paperspace.com/which-ml-framework-should-i-use/
